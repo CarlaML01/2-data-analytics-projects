@@ -87,5 +87,7 @@ Total Columns = 21 <p>
  > Limitations : Firstly there were many rows within the dataframe which contained a certain amount of null values. So, first I had to DORP those rows. Furthermore, the data also contained a duplicated value row, which had to be removed, following a re-check of null values for our key parameters.
 
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Thats_all_folks.svg" width="250" height="250" />
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Thats_all_folks.svg" width="250" height="250">
